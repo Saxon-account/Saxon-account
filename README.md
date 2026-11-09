@@ -3,7 +3,7 @@
 ### Computer Science & Engineering — Santa Clara University
 
 **B.S. Computer Science and Engineering, Minor in Electrical & Computer Engineering**
-Santa Clara University · Class of 2029 · Santa Clara, CA
+Santa Clara University · Class of 2029 · GPA 3.7 · Santa Clara, CA
 
 ---
 
@@ -38,6 +38,11 @@ Personal portfolio site, designed and built from scratch and deployed on GitHub 
 Audio-to-summary application combining speech recognition (wav2vec2) with abstractive
 summarization (BART) in a Gradio interface.
 `Python` · `Gradio` · `Hugging Face Transformers`
+
+**[Data Structures in C](https://github.com/Saxon-account/data-structures-in-c)**
+Sets, hash tables, linked lists, a priority queue, and Huffman coding in C,
+with a Makefile and unit tests.
+`C` · `Make` · `Unit Testing`
 
 ## GitHub Stats
 
