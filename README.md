@@ -3,15 +3,15 @@
 ### Computer Science & Engineering — Santa Clara University
 
 **B.S. Computer Science and Engineering, Minor in Electrical & Computer Engineering**
-Santa Clara University · Class of 2029 · GPA 3.7 · Santa Clara, CA
+Santa Clara University · Class of 2029 · Santa Clara, CA
 
 ---
 
 ## About
 
-Sophomore engineer focused on embedded systems and low-level programming — C, ARM Assembly, and
-the boundary between software and hardware — with additional work in Python for data analysis
-and machine learning. Currently applying to Summer 2027 software and embedded engineering internships.
+Sophomore focused on embedded systems and low-level programming in C and ARM Assembly,
+with additional work in Python for data analysis and machine learning. Currently applying
+to Summer 2027 software and embedded engineering internships.
 
 ## Technical Skills
 
@@ -56,7 +56,6 @@ with a Makefile and unit tests.
 
 - **Coursework:** CSEN 20 — Introduction to Embedded Systems and laboratory
 - **Focus:** Building toward embedded / firmware internship roles for Summer 2027
-- **Languages:** English (native), Japanese (studying — 日本語を勉強しています)
 
 ## Contact
 
