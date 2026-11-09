@@ -1,26 +1,52 @@
-# Hi, I'm Saxon Meznarich
+# Saxon Meznarich
 
-**Computer Science & Engineering sophomore at Santa Clara University** (B.S. expected 2029, GPA 3.7), with a minor in Electrical & Computer Engineering.
+### Computer Science & Engineering — Santa Clara University
 
-I work closest to the hardware: C, ARM Assembly, and embedded systems — plus Python for data and ML projects.
+**B.S. Computer Science and Engineering, Minor in Electrical & Computer Engineering**
+Santa Clara University · Class of 2029 · GPA 3.7 · Santa Clara, CA
 
-## Skills
-- **Languages:** C, Java, Python, ARM Assembly
-- **Python tools:** pandas, NumPy, Matplotlib, scikit-learn
-- **Tools:** Git, GitHub, GitHub Pages
-- **Coursework:** Embedded Systems, Data Structures, Applied Linear Algebra, Physics for Scientists & Engineers
+---
 
-## Projects
-- 🎮 [Video Game Sales Prediction](https://github.com/Saxon-account/video-game-sales-prediction) — Random Forest regression model predicting global video game sales (Python, pandas, scikit-learn)
-- 🌐 [Portfolio Website](https://github.com/Saxon-account/portfolio-website) — Personal portfolio, live at [saxon-account.github.io/portfolio-website](https://saxon-account.github.io/portfolio-website/)
-- 🎙️ [SummarAI-Z](https://github.com/Saxon-account/SummarAI-Z_huggingface) — Audio-to-summary app: speech recognition + text summarization (Gradio, Hugging Face Transformers)
+## About
+
+Sophomore engineer focused on embedded systems and low-level programming — C, ARM Assembly, and
+the boundary between software and hardware — with additional work in Python for data analysis
+and machine learning. Currently applying to Summer 2027 software and embedded engineering internships.
+
+## Technical Skills
+
+| Category | Technologies |
+| --- | --- |
+| Languages | C, Java, Python, ARM Assembly |
+| Data & ML | pandas, NumPy, Matplotlib, scikit-learn |
+| Tools & Platforms | Git, GitHub, GitHub Pages, Jupyter |
+| Coursework | Embedded Systems, Data Structures, Applied Linear Algebra, Physics for Scientists & Engineers |
+
+## Featured Projects
+
+**[Video Game Sales Prediction](https://github.com/Saxon-account/video-game-sales-prediction)**
+Machine learning regression model predicting global video game sales from game attributes,
+built with a Random Forest model.
+`Python` · `pandas` · `scikit-learn` · `Matplotlib`
+
+**[Portfolio Website](https://github.com/Saxon-account/portfolio-website)**
+Personal portfolio site, designed and built from scratch and deployed on GitHub Pages —
+[saxon-account.github.io/portfolio-website](https://saxon-account.github.io/portfolio-website/)
+`HTML` · `CSS` · `GitHub Pages`
+
+**[SummarAI-Z](https://github.com/Saxon-account/SummarAI-Z_huggingface)**
+Audio-to-summary application combining speech recognition (wav2vec2) with abstractive
+summarization (BART) in a Gradio interface.
+`Python` · `Gradio` · `Hugging Face Transformers`
 
 ## Currently
-- Taking CSEN 20 (Embedded Systems) and pursuing an ECEN minor at SCU
-- Applying to Summer 2027 software / embedded internships
-- Studying Japanese (日本語を勉強しています)
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/saxon-m
-- Portfolio: https://saxon-account.github.io/portfolio-website/
-- Email: saxonmeznarich@gmail.com
+- **Coursework:** CSEN 20 — Introduction to Embedded Systems and laboratory
+- **Focus:** Building toward embedded / firmware internship roles for Summer 2027
+- **Languages:** English (native), Japanese (studying — 日本語を勉強しています)
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/saxon-m](https://www.linkedin.com/in/saxon-m)
+- **Portfolio:** [saxon-account.github.io/portfolio-website](https://saxon-account.github.io/portfolio-website/)
+- **Email:** saxonmeznarich@gmail.com
