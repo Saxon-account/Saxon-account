@@ -3,7 +3,7 @@
 ### Computer Science & Engineering — Santa Clara University
 
 **B.S. Computer Science and Engineering, Minor in Electrical & Computer Engineering**
-Santa Clara University · Class of 2029 · GPA 3.7 · Santa Clara, CA
+Santa Clara University · Class of 2029 · Santa Clara, CA
 
 ---
 
