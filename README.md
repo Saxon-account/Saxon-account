@@ -45,6 +45,8 @@ summarization (BART) in a Gradio interface.
 
 ![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Saxon-account&layout=compact)
 
+![GitHub streak](https://streak-stats.demolab.com?user=Saxon-account)
+
 ## Currently
 
 - **Coursework:** CSEN 20 — Introduction to Embedded Systems and laboratory
